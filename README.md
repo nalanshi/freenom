@@ -271,7 +271,7 @@ $ cd /data/wwwroot/freenom/ && php run
 ![设置秘密环境变量](https://s1.ax1x.com/2020/07/09/Ue20Cd.png "设置秘密环境变量")
 
 ![新建变量画面](https://s1.ax1x.com/2020/07/09/UeRUs0.png "新建变量画面")
-
+ 
 3、同意启用 Actions
 
 ![同意启用 Actions](https://s1.ax1x.com/2020/07/09/UeRusP.png "同意启用 Actions")
